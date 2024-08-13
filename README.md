@@ -1,0 +1,1 @@
+This project implements a gender classification model using Convolutional Neural Networks (CNNs). The model is trained on a dataset of facial images to classify the gender as either male or female. The project is developed in Python, utilizing libraries such as TensorFlow, Keras, OpenCV, and NumPy.
